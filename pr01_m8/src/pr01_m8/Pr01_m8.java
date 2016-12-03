@@ -1,16 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package pr01_m8;
 
-/**
- *
- * @author usuari
- */
 import java.io.*; 
 public class Pr01_m8 {
+
+   
+   
+        
+
+
 
    
 
@@ -40,3 +38,7 @@ bw.close();
 }
 } 
 } 
+        // TODO code application logic here
+    
+    
+
